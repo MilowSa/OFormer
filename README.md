@@ -18,7 +18,7 @@ The dataset for these problems are under the courtesy of [FNO](https://github.co
 
 Dataset courtesy under [GNN-BVP](https://github.com/merantix-momentum/gnn-bvp-solver), please check the original repo for data downloading.
 
-### Datasets for IVP problem on Airfoil
+### Datasets for IVP problem on Airfoil ZZZ
 
 Dataset courtesy under [MeshGraphNet](https://github.com/deepmind/deepmind-research/tree/master/meshgraphnets), we provide our processed dataset at [train](https://drive.google.com/file/d/1z88dPaJixOo6KYjjZ7EsBfNX42EwBQ4B/view?usp=share_link)/[test](https://drive.google.com/file/d/1mEZ6gVYJ5UvLupWz1cft4XXlVuwWktgs/view?usp=sharing).
 
